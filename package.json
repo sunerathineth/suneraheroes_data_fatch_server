@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@google/generative-ai": "^0.16.0",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "node-fetch": "^3.3.2"
+  },
+  "scripts": {
+    "start": "node serverConnection.js"
+  },
+  "name": "sunera-heroes",
+  "version": "1.0.0",
+  "main": "serverConnection.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
