@@ -8,6 +8,7 @@
     "cors": "^2.8.5"
   },
   "scripts": {
-    "start": "node api/index.js"
+    "dev": "vercel dev",
+    "deploy": "vercel"
   }
 }
