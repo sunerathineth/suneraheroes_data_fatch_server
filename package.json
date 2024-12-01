@@ -1,7 +1,0 @@
-{
-  "scripts": {
-    "dev": "netlify dev",
-    "build": "your-build-command",
-    "start": "netlify dev"
-  }
-}
